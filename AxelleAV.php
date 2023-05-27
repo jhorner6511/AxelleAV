@@ -4,6 +4,8 @@
  * Description: This plugin scans your WordPress website for malware using VirusTotal.
  * Author: Johnathon M. Horner
  * Author URI: https://github.com/jhorner6511
+ * License: GPL v3
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
  */
 
 add_action( 'plugins_loaded', function() {
